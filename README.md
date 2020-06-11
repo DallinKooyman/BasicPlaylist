@@ -1,5 +1,5 @@
 # Create a Playlist Lab
-This was a Lab in my first computer science class at Brigham Young University. The goal was to use vectors, pointers, and classes to create songs and playlists that could be "played" and song counts increase. I upload as part of the tutorial of GitHub.
+This was a Lab in my first computer science class at Brigham Young University. The goal was to use vectors, pointers, and classes to create songs and playlists that could be "played" and song counts increase. I uploaded as part of the tutorial of GitHub.
 
 ## Built With
 Visual Studio in the C++ language
